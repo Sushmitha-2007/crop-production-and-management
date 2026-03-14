@@ -1,0 +1,7 @@
+{
+  "name": "AgriGrow: Crop Management System",
+  "description": "A comprehensive platform for farmers to plan crops, manage inventory, track tasks, and get AI-powered agricultural advice.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
